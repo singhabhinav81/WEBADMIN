@@ -3,7 +3,7 @@
 define('DB_HOST','localhost');
 define('DB_NAME','WEBADMIN');
 define('DB_USER','root');
-define('DB_PWD','abhinav21');
+define('DB_PWD','');
 
 $siteTitle = 'PlaceHolder_siteTitle';
 $siteFooter= 'PlaceHolder_siteFooter';
