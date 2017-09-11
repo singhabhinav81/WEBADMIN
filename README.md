@@ -5,7 +5,6 @@ CRUD APPLICATION using PHP & MySQL.
 CREATE DATABASE CasualAdmin; 
 
 <!--- DATABASE TABLE --->
-<?php
 CREATE TABLE `Content` (
 `Content_ID` int(11) NOT NULL AUTO_INCREMENT,
 `Nav_ID` int(11) NOT NULL,
@@ -41,5 +40,4 @@ CREATE TABLE `User_Dfn` (
 `pwd` varchar(40) NOT NULL,
 PRIMARY KEY (`User_ID`)
 );
-?>
 
